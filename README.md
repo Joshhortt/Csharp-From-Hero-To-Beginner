@@ -45,10 +45,10 @@ _- All Source Code with solutions included_<br/>
 _- **Udemy** https://www.udemy.com/course/naked_cs/._<br/> 
 
 ## Who Teaches
-_Penny de Byl, formerly professor of interactive media, design and games at Bond University_<br/> 
-_is a founding partner of Holistic3d e-learning specialist delivering Games and _computer science curriculum._<br/> 
-_She is the author of the best selling Holistic Game Development with Unity educational texts https://holistic3d.com/_<br/>  
-_which is accompanied by a _successful YouTube Channel http://bit.ly/holistic3dTV_<br/> 
+_Penny de Byl, formerly professor of interactive media, design and games at Bond University is a founding partner of_<br/> 
+_Holistic3d e-learning specialist delivering Games and _computer science curriculum._<br/> 
+_She is the author of the best selling Holistic Game Development with Unity educational texts https://holistic3d.com/_<br/> 
+_It's accompanied by a _successful YouTube Channel http://bit.ly/holistic3dTV_<br/> 
 _Her research interests include educational technology, generative art, artificial intelligence and game development._<br/> 
 
 ## Start Here if you only want to use my material
