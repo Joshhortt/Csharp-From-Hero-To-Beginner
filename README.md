@@ -42,19 +42,19 @@ _- Examples_<br/>
 _- Quizzes_<br/>
 _- Challenges_<br/>
 _- All Source Code with solutions included_<br/> 
-_- **Udemy** (https://www.udemy.com/course/naked_cs/)._<br/> 
+_- **Udemy** https://www.udemy.com/course/naked_cs/._<br/> 
 
 ## Who Teaches
-_Penny de Byl, formerly professor of interactive media, design and games at Bond University,_<br/> 
+_Penny de Byl, formerly professor of interactive media, design and games at Bond University_<br/> 
 _is a founding partner of Holistic3d e-learning specialist delivering Games and _computer science curriculum._<br/> 
-_She is the author of the best selling Holistic Game Development with Unity educational texts (https://holistic3d.com/)_<br/>  
-_which is accompanied by a _successful YouTube Channel (http://bit.ly/holistic3dTV)._<br/> 
+_She is the author of the best selling Holistic Game Development with Unity educational texts https://holistic3d.com/_<br/>  
+_which is accompanied by a _successful YouTube Channel http://bit.ly/holistic3dTV_<br/> 
 _Her research interests include educational technology, generative art, artificial intelligence and game development._<br/> 
 
 ## Start Here if you only want to use my material
 _To see the code for a particular lesson, be sure to select that lesson by Sections and follow along_.<br/>
 _Use **Tutorials Teacher** https://www.tutorialsteacher.com/csharp/csharp-tutorials_<br/>
-_or **C# in a Nutshell** (http://www.albahari.com/nutshell/) to dive deeper_.
+_or **C# in a Nutshell** http://www.albahari.com/nutshell/ to dive deeper_.
 
 ## Setup/Installation Requirements
 
