@@ -1,0 +1,28 @@
+
+1. Challenge 
+
+Console.WriteLine() is to print a line with variable input to the console.  
+Console.Write() does perform the exact same task but without a newline appended to the end.
+
+We can also format the text of a string a little by including right and left justification. 
+
+ For example:
+
+Console.WriteLine("*{0,10}*", "Bill");
+will print the string "Bill" between two stars but "Bill" will take up 10 spaces and be right aligned like this:
+
+*      Bill*
+If you want to left align the string in 10 spaces then the second part of the format must be a negative thus:
+
+Console.WriteLine("*{0,-10}*", "Bill");
+Given this new information, your challenge is to write a program to ask the user to enter their name,
+job title and company name and then to print out a name badge that looks like this:
+
+|**********************|
+|Name:             Josh|
+|            Programmer|
+|----------------------|
+|            	     C#|
+|**********************|
+
+Try to develop your own program before looking at the solution attached.

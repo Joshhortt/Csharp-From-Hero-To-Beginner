@@ -1,0 +1,16 @@
+
+Challenge
+Write a program to generate a movie ticket displaying the person's name and cost of admission.  
+The price of the movie will be $25 full price or $5.30 if the person was born before 1950 or after 2000.  
+The program should ask the user to enter their name and birth year before printing out the tickets that would look like this:
+
+Enter Your Name: 
+Joe Bloggs
+Please Enter your year of birth:
+1970
+|**********************|
+|   -- ADMIT ONE --    |
+|Name:       Josh Hortt|
+|Price: $         25.00|
+|----------------------|
+Try this for yourself before looking at the attached solution.
