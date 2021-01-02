@@ -46,9 +46,9 @@ _- **Udemy** https://www.udemy.com/course/naked_cs/._<br/>
 
 ## Who Teaches
 _Penny de Byl, formerly professor of interactive media, design and games at Bond University is a founding partner of_<br/> 
-_Holistic3d e-learning specialist delivering Games and _computer science curriculum._<br/> 
+_Holistic3d e-learning specialist delivering Games and computer science curriculum._<br/> 
 _She is the author of the best selling Holistic Game Development with Unity educational texts._<br/>
-_It's accompanied by a _successful YouTube Channel https://bit.ly/holistic3dTV is the UrL._<br/>
+_It's accompanied by a successful YouTube Channel https://bit.ly/holistic3dTV is the UrL._<br/>
 _Her research interests include educational technology, generative art, artificial intelligence and game development._<br/> 
 
 ## Start Here if you only want to use my material
