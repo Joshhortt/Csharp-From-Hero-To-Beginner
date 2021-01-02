@@ -47,14 +47,14 @@ _- **Udemy** https://www.udemy.com/course/naked_cs/._<br/>
 ## Who Teaches
 _Penny de Byl, formerly professor of interactive media, design and games at Bond University is a founding partner of_<br/> 
 _Holistic3d e-learning specialist delivering Games and _computer science curriculum._<br/> 
-_She is the author of the best selling Holistic Game Development with Unity educational texts https://holistic3d.com/_<br/> 
-_It's accompanied by a _successful YouTube Channel http://bit.ly/holistic3dTV_<br/> 
+_She is the author of the best selling Holistic Game Development with Unity educational texts._<br/>
+_It's accompanied by a _successful YouTube Channel https://bit.ly/holistic3dTV is the UrL._<br/>
 _Her research interests include educational technology, generative art, artificial intelligence and game development._<br/> 
 
 ## Start Here if you only want to use my material
 _To see the code for a particular lesson, be sure to select that lesson by Sections and follow along_.<br/>
 _Use **Tutorials Teacher** https://www.tutorialsteacher.com/csharp/csharp-tutorials_<br/>
-_or **C# in a Nutshell** http://www.albahari.com/nutshell/ to dive deeper_.
+_Or you can use also **C# in a Nutshell** http://www.albahari.com/nutshell/ to dive deeper_.
 
 ## Setup/Installation Requirements
 
