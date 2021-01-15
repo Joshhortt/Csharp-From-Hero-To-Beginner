@@ -82,6 +82,7 @@ public class HangmanStarter
     }
 }
 /*
+OUTPUT:
 
 Apples
 Guess a letter: a
