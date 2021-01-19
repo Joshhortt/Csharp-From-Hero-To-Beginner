@@ -30,7 +30,7 @@ _I would like to invite you to learn programming in C# following this amazing co
 _Ignite your passion for finding little miracles in code every day._<br/>
 _When you have these concepts locked down then it will be time to pick up the pretty tools and start creating._
 
-## Start Here if uou want to purchase the course
+## Start Here if you want to take the course
 _It's never too late to begin a new career or maybe you want to learn a new programming language._<br/>
 _I would like to invite you to learn programming in C# following this amazing course._<br/> 
 _Ignite your passion for finding little miracles in code every day._<br/>
