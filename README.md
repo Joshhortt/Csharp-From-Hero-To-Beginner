@@ -71,5 +71,6 @@ _If you have any issues or have questions, ideas, concerns, please contact: josh
 
 ## Technologies Used
 
-_**C#** - C sharp_<br/>
+_**C#** - C sharp - https://docs.microsoft.com/en-us/dotnet/csharp/_<br/>
+_**MONO** - Mono compiler - https://www.mono-project.com/_
 
